@@ -1,4 +1,4 @@
-## 🚀 Tech Stack
+<!-- ## 🚀 Tech Stack
 
 **Languages & Frameworks**  
 ![Java](https://img.shields.io/badge/Java-007396?logo=coffeescript&logoColor=white)
@@ -45,3 +45,4 @@
 - [**PICKL_BE**](https://github.com/2cmin/PICKL_BE) — Spring Boot, JPA, JWT, AWS RDS + S3  
 - [**DogCatSquare**](https://github.com/2cmin/DogCatSquare) — Android Kotlin, Retrofit, Room  
 - [**Cinebox**](https://github.com/2cmin/Cinebox) — Spring + React, EKS/ECR/ArgoCD, RDS Multi-AZ  
+-->
